@@ -1,5 +1,0 @@
-global:
-    violations:
-        exclude: 
-            - Line Too Long
-			- Missing Module Docstring
